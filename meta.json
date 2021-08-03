@@ -1,10 +1,10 @@
 {"name" : "USSD Book",
 "resources" : {
-"CM": "https://www.dropbox.com/s/814a0k709hw04g3/cm.json?dl=0",
-"CI" : "https://www.dropbox.com/s/ywp2wpheegd1m79/ci.json?dl=0",
-"SN" : "https://www.dropbox.com/s/5i5usds2ja0n9rf/sn.json?dl=0",
-"NG" : "https://www.dropbox.com/s/7g6h335y9y3s7q7/ng.json?dl=0",
-"US" : "https://www.dropbox.com/s/83i2xuhy0uwdgih/us.json?dl=0",
-"CN" : "https://www.dropbox.com/s/030lshumvkj4upq/cn.json?dl=0"
+"CM": "https://dl.dropboxusercontent.com/s/814a0k709hw04g3/cm.json?dl=0",
+"CI" : "https://dl.dropboxusercontent.com/s/ywp2wpheegd1m79/ci.json?dl=0",
+"SN" : "https://dl.dropboxusercontent.com/s/5i5usds2ja0n9rf/sn.json?dl=0",
+"NG" : "https://dl.dropboxusercontent.com/s/7g6h335y9y3s7q7/ng.json?dl=0",
+"US" : "https://dl.dropboxusercontent.com/s/83i2xuhy0uwdgih/us.json?dl=0",
+"CN" : "https://dl.dropboxusercontent.com/s/030lshumvkj4upq/cn.json?dl=0"
 }
 }
