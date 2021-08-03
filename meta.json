@@ -1,6 +1,10 @@
 {"name" : "USSD Book",
-resources : {
-"fr": "url-fr",
-"cm" : "url-cm"
-  }
+"resources" : {
+"CM": "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/cm.json?alt=media&token=d67d0485-4f06-4ec1-9409-010d35750761",
+"CI" : "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/ci.json?alt=media&token=4ca14f70-809d-46d1-bbaf-9ac37d24a103",
+"SN" : "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/sn.json?alt=media&token=6930a91d-0426-486e-b363-670671e5fcf0",
+"NG" : "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/ng.json?alt=media&token=58c9e368-9c3d-4805-8617-9bc5803842f1",
+"US" : "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/us.json?alt=media&token=224fbf4f-2b56-42d2-b6f9-975e819b57d5",
+"CN" : "https://firebasestorage.googleapis.com/v0/b/nino-perso.appspot.com/o/cn.json?alt=media&token=283e6eb7-22bd-48d9-a025-a1d94a332211"
+}
 }
