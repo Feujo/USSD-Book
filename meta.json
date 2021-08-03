@@ -1,0 +1,6 @@
+{"name" : "USSD Book",
+resources : {
+"fr": "url-fr",
+"cm" : "url-cm"
+  }
+}
